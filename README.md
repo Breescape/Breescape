@@ -15,32 +15,32 @@
 <ul>
   <li><a href="https://breescape.com/collections/all">Shop All</a>
     <ul>
-  <li><a href="https://breescape.com/products/cooling-comforter">Cooling Comforter</a></li>
-  <li><a href="https://breescape.com/products/cooling-sheet-set">Cooling Sheet Set</a></li>
-  <li><a href="https://breescape.com/products/cooling-comforter-set">Cooling Comforter Set</a></li>
-  <li><a href="https://breescape.com/products/cooling-pillowcases">Cooling Pillowcase</a></li>
-  <li><a href="https://breescape.com/products/cooling-eye-mask">Cooling Eye Mask</a></li>
+  <li><a href="https://breescape.com/products/cooling-comforter?utm_source=github">Cooling Comforter</a></li>
+  <li><a href="https://breescape.com/products/cooling-sheet-set?utm_source=github">Cooling Sheet Set</a></li>
+  <li><a href="https://breescape.com/products/cooling-comforter-set?utm_source=github">Cooling Comforter Set</a></li>
+  <li><a href="https://breescape.com/products/cooling-pillowcases?utm_source=github">Cooling Pillowcase</a></li>
+  <li><a href="https://breescape.com/products/cooling-eye-mask?utm_source=github">Cooling Eye Mask</a></li>
     </ul>
   </li>
-  <li><a href="https://breescape.com/pages/our-story">About Breescape</a></li>
-  <li><a href="https://breescape.com/pages/blendtek">BlendTek™ Technology</a></li>
+  <li><a href="https://breescape.com/pages/our-story?utm_source=github">About Breescape</a></li>
+  <li><a href="https://breescape.com/pages/blendtek?utm_source=github">BlendTek™ Technology</a></li>
   <li>
     Trusted Voices
     <ul>
-      <li><a href="https://breescape.com/pages/reviews">Verified Reviews</a></li>
-      <li><a href="https://breescape.com/pages/sleep-expert">Backed by Experts</a></li>
-      <li><a href="https://breescape.com/pages/wall-of-love">Influencer Picks</a></li>
+      <li><a href="https://breescape.com/pages/reviews?utm_source=github">Verified Reviews</a></li>
+      <li><a href="https://breescape.com/pages/sleep-expert?utm_source=github">Backed by Experts</a></li>
+      <li><a href="https://breescape.com/pages/wall-of-love?utm_source=github">Influencer Picks</a></li>
     </ul>
   </li>
 </ul>
 
 ## Blog
-- [Understanding Your Sleep Cycle](https://breescape.com/blogs/blogs/understanding-your-sleep-cycle)
-- [Quality Sleep & How to Improve It](https://breescape.com/blogs/blogs/quality-sleep-how-to-improve-it)
-- [Highlights from Our World Sleep Day Launch](https://breescape.com/blogs/blogs/unlocking-better-sleep-for-hot-sleepers-highlights-from-our-world-sleep-day-launch)
-- [More Coverage, More Cool: Finally, Bedding Designed with You in Mind](https://breescape.com/blogs/blogs/more-coverage-more-cool-finally-bedding-designed-with-you-in-mind)
-- [Why Breescape's BlendTek™ Feels Like Nothing Else](https://breescape.com/blogs/blogs/why-breescapes-blendtek-feels-like-nothing-else)
-- [The Ultimate Guide for Hot Sleepers](https://breescape.com/blogs/blogs/the-ultimate-guide-for-hot-sleepers)
+- [Understanding Your Sleep Cycle](https://breescape.com/blogs/blogs/understanding-your-sleep-cycle?utm_source=github)
+- [Quality Sleep & How to Improve It](https://breescape.com/blogs/blogs/quality-sleep-how-to-improve-it?utm_source=github)
+- [Highlights from Our World Sleep Day Launch](https://breescape.com/blogs/blogs/unlocking-better-sleep-for-hot-sleepers-highlights-from-our-world-sleep-day-launch?utm_source=github)
+- [More Coverage, More Cool: Finally, Bedding Designed with You in Mind](https://breescape.com/blogs/blogs/more-coverage-more-cool-finally-bedding-designed-with-you-in-mind?utm_source=github)
+- [Why Breescape's BlendTek™ Feels Like Nothing Else](https://breescape.com/blogs/blogs/why-breescapes-blendtek-feels-like-nothing-else?utm_source=github)
+- [The Ultimate Guide for Hot Sleepers](https://breescape.com/blogs/blogs/the-ultimate-guide-for-hot-sleepers?utm_source=github)
 
 ## FAQ
 
