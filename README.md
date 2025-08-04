@@ -1,6 +1,6 @@
 # About Breescape™
 
-<p><a href="https://breescape.com/" rel="follow">Breescape</a> is dedicated to providing innovative cooling sleep solutions for hot sleepers. Designed to fit all body types, our bedding offers full coverage and is engineered to deliver long-lasting coolness, ensuring uninterrupted, restorative sleep throughout the night.</p>
+<p><a href="https://breescape.com?utm_source=github" rel="follow">Breescape</a> is dedicated to providing innovative cooling sleep solutions for hot sleepers. Designed to fit all body types, our bedding offers full coverage and is engineered to deliver long-lasting coolness, ensuring uninterrupted, restorative sleep throughout the night.</p>
 
 
 <p align="left">
@@ -13,7 +13,7 @@
 ## Catalog
 
 <ul>
-  <li><a href="https://breescape.com/collections/all">Shop All</a>
+  <li><a href="https://breescape.com/collections/all?utm_source=github">Shop All</a>
     <ul>
   <li><a href="https://breescape.com/products/cooling-comforter?utm_source=github">Cooling Comforter</a></li>
   <li><a href="https://breescape.com/products/cooling-sheet-set?utm_source=github">Cooling Sheet Set</a></li>
